@@ -17,7 +17,7 @@
 */
 
 const SCRIPT_URL =
-    "MASUKKAN_URL_APPS_SCRIPT_DI_SINI";
+    "https://script.google.com/macros/s/AKfycbwQc8Hi5l4PlTEK7I8BT3s-nREbH_qOL9IVEn5jK5f7pTk9_n0yx1iKz2sl1k3eaUgo/exec";
 
 
 
